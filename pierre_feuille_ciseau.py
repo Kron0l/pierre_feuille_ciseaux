@@ -1,7 +1,7 @@
 #on considère la librairie random qui permet de tirer un nombre aléatoire
 import random
 #assigner la liste des élément jouables (pierre,feuille,ciseaux) a possiblePlay
-possiblePlay = ["pierre","feuille","ciseaux"]
+possiblePlay = ["pierre","feuille","ciseaux","ciseaux"]
 
 
 #définir la fonction victoire
