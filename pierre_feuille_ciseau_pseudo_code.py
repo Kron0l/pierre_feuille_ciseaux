@@ -1,5 +1,5 @@
 #on considère la librairie random qui permet de tirer un nombre aléatoire
-#assigner la liste des élément jouables (pierre,feuille,ciseaux) a possiblePlay
+#assigner la liste des élément jouables (pierre,feuille,ciseaux,stop) a possiblePlay
 
 
 #définir la fonction victoire
